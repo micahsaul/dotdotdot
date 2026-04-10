@@ -1,0 +1,5 @@
+# Rose Pine
+theme = "rose_pine_moon"
+
+[keys.insert]
+j = { k = "normal_mode" }

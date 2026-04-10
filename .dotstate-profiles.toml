@@ -1,0 +1,18 @@
+version = 2
+
+[common]
+synced_files = []
+
+[[profiles]]
+name = "default"
+synced_files = [
+    ".config/btop",
+    ".config/helix",
+    ".config/karabiner/karabiner.json",
+    ".config/lsd",
+    ".config/nushell",
+    ".config/starship.toml",
+    ".config/zellij",
+    "Library/Application Support/com.mitchellh.ghostty",
+]
+packages = []
